@@ -11,7 +11,7 @@ const GoodFilterList = ({ goods, onItemSelect, clearFilter }) => {
 
     return (
         <>
-            <div className="col-2">
+            <div className="list__filter">
                 <ul className="list-group">
                     {unicKey.map((good) => (
                         <li

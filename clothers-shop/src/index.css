@@ -56,3 +56,12 @@ a {
 .btn__clear {
     width: 100%;
 }
+
+.card-img-top {
+    height: 400px;
+}
+
+.list__filter {
+    width: 25%;
+    margin-right: 30px;
+}
